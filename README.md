@@ -1,6 +1,6 @@
 - 👋 Hi, I’m pathompuam
 - 👀 I’m interested in Web/App Developer 
-- 🌱 I’m currently learning : Html,Css,Java script,Java,C++,React
+- 🌱 I’m currently learning : Java script, Java, C++, React, MySQL
 - 📫 How to reach me :
   Gmail : luckky080@gmail.com
   IG : yourboi_lux 
